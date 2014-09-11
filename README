@@ -1,0 +1,5 @@
+This is a chess game written in C#. It allows for computer vs player, 
+computer vs computer or player vs player gameplay.
+
+It makes extensive use of new .net threading models; .Net 4 is 
+required.
